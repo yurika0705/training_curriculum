@@ -101,6 +101,10 @@ GEM
 
     mini_portile2 (2.8.0)
 
+
+    mini_portile2 (2.8.0)
+
+
     minitest (5.16.3)
     msgpack (1.6.0)
     mysql2 (0.5.4)
@@ -109,7 +113,12 @@ GEM
     nokogiri (1.13.9)
       mini_portile2 (~> 2.8.0)
 
+
+    nokogiri (1.13.9)
+      mini_portile2 (~> 2.8.0)
+
     nokogiri (1.13.9-x86_64-darwin)
+
 
       racc (~> 1.4)
     pry (0.14.1)
